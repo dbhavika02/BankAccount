@@ -1,0 +1,14 @@
+.balance-container{
+    background-color: black;
+    color: white;
+    height: 300px;
+    width: 300px;
+}
+#deposit{
+    margin: 30px;
+    /* padding: 20px; */
+}
+/* #withdraw{
+    margin: 30px;
+    padding: 20px;
+} */
